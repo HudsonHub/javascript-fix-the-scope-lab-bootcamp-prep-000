@@ -9,8 +9,11 @@ function myAnimal() {
 var animal = 'dog'
 
 function yourAnimal() {
-  
+  var animal = 'cat';
   return animal
+  yourAnimal;
+  animal
+}
 }
 
 function add2(n) {
